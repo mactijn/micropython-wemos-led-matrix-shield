@@ -11,8 +11,8 @@ This code has been optimized for use with the Matrix LED
 shield by Wemos. It has been tested on a Wemos D1 Mini and
 an MH-ET Live MiniKit, using micropython 1.9.2.
 
-Protocol implementation was derived from [Wemos](https://github.com/wemos/WEMOS_Matrix_LED_Shield_Arduino_Library/)'
-own implementation of the driver for Arduino.
+Protocol implementation was derived from Wemos'
+[own implementation](https://github.com/wemos/WEMOS_Matrix_LED_Shield_Arduino_Library/) of the driver for Arduino.
 
 ## Functionality
 - Modify the state of individual pixels
